@@ -1,6 +1,9 @@
-/*
+
 package kosaraju
 
+func main() {}
+	
+/*
 import (
 	"fmt"
 	"testing"
